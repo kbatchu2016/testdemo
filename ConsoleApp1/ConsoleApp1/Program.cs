@@ -1,4 +1,4 @@
-﻿using System;
+n f﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("this is from the app from jenkins");
+            Console.WriteLine("--------------console report: C# code build and run from the jenkins--------------");
         }
     }
 }
